@@ -1,0 +1,8 @@
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/onatm/clockwerk v0.0.0-20190910145222-354c9bd6cf28 h1:M0QH5BK6ijqKoYU3BTLfh1kAovNF6/Eq06wE7kb5BRo=
+github.com/onatm/clockwerk v0.0.0-20190910145222-354c9bd6cf28/go.mod h1:Gp8wnpR4S9xyhGdgDMk4nnvU1o81DI15a3wCcSEBPgA=
+github.com/whiteshtef/clockwork v0.0.0-20191105103220-5f1b50934f20 h1:Sm1te6xZywSG5xgjUGfGrBAVHCjomEF6jSrKQz39mTY=
+github.com/whiteshtef/clockwork v0.0.0-20191105103220-5f1b50934f20/go.mod h1:6o8H8sci2q3QxZ4p/U88ggqZuhY3mg34+WE5BuazLsU=
+golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e h1:vcxGaoTs7kV8m5Np9uUNQin4BrLOthgV7252N8V+FwY=
+golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
